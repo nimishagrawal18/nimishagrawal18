@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on anything, really. If you need help on any project, I'm pretty sure I can help in some way. Especially interested in working on IoT related projects!
 - 📫 How to reach me - email me at nimishagrawal.18@gmail.com
 
-(September 2021) <!--- Let's see what I have to add after some time from now. (Hopefully a lot!) --->
+(September 2021) 
+
+<!--- Let's see what I have to add after some time from now. (Hopefully a lot!) --->
 
 <!---
 nimishagrawal18/nimishagrawal18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
